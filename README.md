@@ -121,7 +121,7 @@ Navigate to 'Counter-Strike/cstrike/models/player' folder and create following f
   - CT --> `"models/player/vip_ct/vip_ct.mdl"`
   - TE --> `"models/player/vip_te/vip_te.mdl"`
 
-## Authors
+## Author
 
 - **Aditya Ambre** - _Developer & Owner_ - [Xavier's Server ♰](https://github.com/AdityaAmbre)
 
