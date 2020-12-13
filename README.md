@@ -1,5 +1,7 @@
 ﻿# XV Skins ♰ - Admin/Vip's Skin AMXX Plugin
 
+![alt XV Skins ♰](preview.png)
+
 XV Skins - _Admin/Vip's Skin AMXX Plugin_ for Counter-Strike 1.6
 
 ## Getting Started
